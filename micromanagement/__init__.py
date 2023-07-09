@@ -1,0 +1,1 @@
+from micromanagement.core import MicroManageGame

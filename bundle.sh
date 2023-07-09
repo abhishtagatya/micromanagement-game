@@ -1,0 +1,1 @@
+pyinstaller --onefile --clean --name "micromanagement" --add-data "micromanagement/assets/*.png:./assets" --add-data "micromanagement/assets/*.txt:./assets" --add-data "micromanagement/assets/*.wav:./assets" --add-data "micromanagement/assets/*.ttf:./assets" micromanagement.py
