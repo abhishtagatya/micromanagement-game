@@ -1,6 +1,6 @@
 # Micro Management - v1.0
 
-![Demo](docs/img/Game Cover.png)
+![Demo](docs/img/Game_Cover.png)
 
 [![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://metaphile.itch.io/micro-management)
 
